@@ -5,7 +5,7 @@ Welcome to the GitHub organization of the CAMARA technical project. General info
 The work of CAMARA is happening within the [Sub Projects](https://wiki.camaraproject.org/display/CAM/Sub+Projects) and their [API Repositories](https://github.com/search?q=topic%3Aapi-repository+org%3Acamaraproject&type=Repositories), 
 the [Working Groups](https://github.com/search?q=topic%3Aworkinggroup+org%3Acamaraproject&type=Repositories) and the [Technical Steering Committee](https://wiki.camaraproject.org/display/CAM/Technical+Steering+Committee).
 
-To engage in CAMARA subscribe our [Mailing Lists](https://lists.camaraproject.org/g/all/subgroups), join the [Community Meetings](https://zoom-lfx.platform.linuxfoundation.org/meetings/telcoapi?view=week) and 
+To engage in CAMARA subscribe to our [Mailing Lists](https://lists.camaraproject.org/g/all/subgroups), join the [Community Meetings](https://zoom-lfx.platform.linuxfoundation.org/meetings/telcoapi?view=week) and 
 [contribute here in GitHub](https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md) in the repositories with issues, reviews, pull requests or just your questions in the discussions. 
 
 ## First Meta-Release of CAMARA APIs coming soon 🚀
