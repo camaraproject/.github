@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-Welcome to the GitHub of the CAMARA technical project. General information about the project you can find within the [Wiki](https://wiki.camaraproject.org), on the [Website](https://camaraproject.org) and within the [Governance](https://github.com/camaraproject) repository. Please read the [Project Charter](https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md) if you want to know what CAMARA and its APIs are about.
+Welcome to the GitHub of the CAMARA technical project. General information about the project you can find within the [Wiki](https://wiki.camaraproject.org), on the [Website](https://camaraproject.org) and within the [Governance](https://github.com/camaraproject/Governance) repository. Please read the [Project Charter](https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md) if you want to know what CAMARA and its APIs are about.
 
 The work of CAMARA is happening within the [Sub Projects](https://wiki.camaraproject.org/display/CAM/Sub+Projects) and their [API Repositories](https://github.com/search?q=topic%3Aapi-repository+org%3Acamaraproject&type=Repositories), 
 the [Working Groups](https://github.com/search?q=topic%3Aworkinggroup+org%3Acamaraproject&type=Repositories) and the [Technical Steering Committee](https://wiki.camaraproject.org/display/CAM/Technical+Steering+Committee).
