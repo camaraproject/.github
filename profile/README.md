@@ -184,7 +184,7 @@ We are happy to announce the **CAMARA meta-release Fall24** with the following A
     </tbody>
 </table>            
 
-(1) We try to keep this table up-to-date. But please check before using an API version for your implementation if there is a newer (patch) release available within the repository. Look for the latest public release.
+(1) We try to keep this table up-to-date. Before using an API for your implementation check if there is a newer (patch) release available within the repository. Look for the latest public release.
 
-Visit our [Wiki](https://wiki.camaraproject.org/display/CAM/CAMARA+Project+Home) for more details about the [Meta-release Fall24](https://wiki.camaraproject.org/display/CAM/Meta-release+Fall24) and the [Release Management in CAMARA](https://wiki.camaraproject.org/display/CAM/Release+Management+Working+Group).
+Visit our [Wiki](https://wiki.camaraproject.org/display/CAM/CAMARA+Project+Home) for more details about the [Meta-release Fall24](https://wiki.camaraproject.org/display/CAM/Meta-release+Fall24) and the [Release Management in CAMARA](https://wiki.camaraproject.org/display/CAM/Release+Management+Working+Group). Please note that there more than 20 further APIs in work - see the complete list of [API Repositories](https://github.com/search?q=topic%3Aapi-repository+org%3Acamaraproject&type=Repositories) which follows also below.
 
