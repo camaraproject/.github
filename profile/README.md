@@ -14,7 +14,7 @@ A CAMARA Meta-release combines a set of CAMARA API versions into a consistent re
 
 Today we are happy to announce the first **CAMARA meta-release Fall24**. It includes 25 APIs, including the first five stable APIs:
 
-![Overview of the 25 APIs within the CAMARA Fall24 meta-release](profile/images/CAMARA_Meta-release_Fall24.png)
+![Overview of the 25 APIs within the CAMARA Fall24 meta-release](/profile/images/CAMARA_Meta-release_Fall24.png)
 
 (table with APIs)
 
