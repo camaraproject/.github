@@ -8,17 +8,13 @@ the [Working Groups](https://github.com/search?q=topic%3Aworkinggroup+org%3Acama
 To engage in CAMARA subscribe to our [Mailing Lists](https://lists.camaraproject.org/g/all/subgroups), join the [Community Meetings](https://zoom-lfx.platform.linuxfoundation.org/meetings/telcoapi?view=week) and 
 [contribute here in GitHub](https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md) in the repositories with issues, reviews, pull requests or just your questions in the discussions. 
 
-## First Meta-Release of CAMARA APIs coming soon 🚀
+## First Meta-Release of CAMARA APIs now available - Fall24 🚀
 
-In the meantime you can check out https://wiki.camaraproject.org/display/CAM/Meta-release+Fall24 for the work in progress on the Meta-Release.
+The CAMARA Fall24 Meta-release combines a set of CAMARA API versions into a consistent release. All API versions in the meta-release fulfill defined quality criteria and are compliant to the current CAMARA guidelines in [Commonalities](https://github.com/camaraproject/Commonalities/releases/latest) and [Identity and Consent Management](https://github.com/camaraproject/IdentityAndConsentManagement/releases/latest). There will be two meta-releases per year (September and March).
 
-<!--
+(image)
 
-**Here are some ideas to get you started:**
+(table with APIs)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Visit our [Wiki](https://wiki.camaraproject.org/display/CAM/CAMARA+Project+Home) for more details about the [Meta-release Fall24](https://wiki.camaraproject.org/display/CAM/Meta-release+Fall24) and the [Release Management in CAMARA](https://wiki.camaraproject.org/display/CAM/Release+Management+Working+Group).
+
