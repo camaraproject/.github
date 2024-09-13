@@ -8,7 +8,7 @@ the [Working Groups](https://github.com/search?q=topic%3Aworkinggroup+org%3Acama
 To engage in CAMARA subscribe to our [Mailing Lists](https://lists.camaraproject.org/g/all/subgroups), join the [Community Meetings](https://zoom-lfx.platform.linuxfoundation.org/meetings/telcoapi?view=week) and 
 [contribute here in GitHub](https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md) in the repositories with issues, reviews, pull requests or just your questions in the discussions. 
 
-## First Meta-release of CAMARA APIs now available - Fall24 🚀
+## First meta-release of CAMARA APIs now available - Fall24 🚀
 
 A CAMARA meta-release combines a set of CAMARA API versions into a consistent release. All API versions in the meta-release fulfill [defined quality criteria](https://github.com/camaraproject/ReleaseManagement/blob/main/documentation/API-Readiness-Checklist.md) and are compliant to the current CAMARA guidelines in [Commonalities](https://github.com/camaraproject/Commonalities) and [Identity and Consent Management](https://github.com/camaraproject/IdentityAndConsentManagement). There will be two meta-releases per year (September and March).
 
