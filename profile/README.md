@@ -173,7 +173,7 @@ We are happy to announce the **CAMARA meta-release Fall24** with the following A
             <td>geofencing-subscriptions</td>
             <td>0.3.0</td>
             <td><a href="https://github.com/camaraproject/DeviceLocation/releases/tag/r1.2">r1.2</a>
-            <td><a href="https://github.com/camaraproject/DeviceLocation ">DeviceLocation </a></td>
+            <td><a href="https://github.com/camaraproject/DeviceLocation ">DeviceLocation</a></td>
         </tr>
         <tr>
             <td>sim-swap-subscriptions</td>
