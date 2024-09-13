@@ -8,13 +8,13 @@ the [Working Groups](https://github.com/search?q=topic%3Aworkinggroup+org%3Acama
 To engage in CAMARA subscribe to our [Mailing Lists](https://lists.camaraproject.org/g/all/subgroups), join the [Community Meetings](https://zoom-lfx.platform.linuxfoundation.org/meetings/telcoapi?view=week) and 
 [contribute here in GitHub](https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md) in the repositories with issues, reviews, pull requests or just your questions in the discussions. 
 
-## First Meta-Release of CAMARA APIs now available - Fall24 🚀
+## First Meta-release of CAMARA APIs now available - Fall24 🚀
 
 A CAMARA Meta-release combines a set of CAMARA API versions into a consistent release. All API versions in the meta-release fulfill [defined quality criteria](https://github.com/camaraproject/ReleaseManagement/blob/main/documentation/API-Readiness-Checklist.md) and are compliant to the current CAMARA guidelines in [Commonalities](https://github.com/camaraproject/Commonalities) and [Identity and Consent Management](https://github.com/camaraproject/IdentityAndConsentManagement). There will be two meta-releases per year (September and March).
 
-We are happy to announce the **CAMARA meta-release Fall24** with the following APIs:
+We are happy to announce the **CAMARA Meta-release Fall24** with the following APIs:
 
-![Overview of the 25 APIs within the CAMARA Fall24 meta-release](/profile/images/CAMARA_Meta-release_Fall24.png)
+![Overview of the 25 APIs within the CAMARA Fall24 Meta-release](/profile/images/CAMARA_Meta-release_Fall24.png)
 
 <table>
     <thead>
@@ -186,5 +186,5 @@ We are happy to announce the **CAMARA meta-release Fall24** with the following A
 
 (1) We try to keep this table up-to-date. Before using an API for your implementation check if there is a newer (patch) release available within the repository. Look for the latest public release.
 
-Visit our [Wiki](https://wiki.camaraproject.org/display/CAM/CAMARA+Project+Home) for more details about the [Meta-release Fall24](https://wiki.camaraproject.org/display/CAM/Meta-release+Fall24) and the [Release Management in CAMARA](https://wiki.camaraproject.org/display/CAM/Release+Management+Working+Group). Please note that there more than 20 further APIs in work - see the complete list of [API Repositories](https://github.com/search?q=topic%3Aapi-repository+org%3Acamaraproject&type=Repositories) which follows also below.
+Visit our [Wiki](https://wiki.camaraproject.org/display/CAM/CAMARA+Project+Home) for more details about the [meta-release Fall24](https://wiki.camaraproject.org/display/CAM/Meta-release+Fall24) and the [Release Management in CAMARA](https://wiki.camaraproject.org/display/CAM/Release+Management+Working+Group). Please note that there more than 20 further APIs in work - see the complete list of [API Repositories](https://github.com/search?q=topic%3Aapi-repository+org%3Acamaraproject&type=Repositories) which follows also below.
 
