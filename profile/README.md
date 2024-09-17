@@ -69,7 +69,7 @@ We are happy to announce the **CAMARA meta-release Fall24** with the following A
             <td>device-reachability-status</td>
             <td>0.6.0</td>
             <td><a href="https://github.com/camaraproject/DeviceStatus/releases/tag/r1.2">r1.2</a>
-            <td><a href="https://github.com/camaraproject/DeviceStatusv">DeviceStatus</a></td>
+            <td><a href="https://github.com/camaraproject/DeviceStatus">DeviceStatus</a></td>
         </tr>
         <tr>
             <td>device-roaming-status</td>
