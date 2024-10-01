@@ -37,7 +37,7 @@ We are happy to announce the **CAMARA meta-release Fall24** with the following A
         <tr>
             <td>number-verification</td>
             <td>1.0.0</td>
-            <td><a href="https://github.com/camaraproject/NumberVerification/releases/tag/r1.2">r1.2</a>
+            <td><a href="https://github.com/camaraproject/NumberVerification/releases/tag/r1.3">r1.3</a>
             <td><a href="https://github.com/camaraproject/NumberVerification">NumberVerification</a></td>
         </tr>
         <tr>
