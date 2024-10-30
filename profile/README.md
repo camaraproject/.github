@@ -55,7 +55,7 @@ We are happy to announce the **CAMARA meta-release Fall24** with the following A
         <tr>
             <td>sim-swap</td>
             <td>1.0.0</td>
-            <td><a href="https://github.com/camaraproject/SimSwap/releases/tag/r1.2">r1.2</a>
+            <td><a href="https://github.com/camaraproject/SimSwap/releases/tag/r1.3">r1.3</a>
             <td><a href="https://github.com/camaraproject/SimSwap">SimSwap</a></td>
         </tr>
         <tr>
@@ -177,8 +177,8 @@ We are happy to announce the **CAMARA meta-release Fall24** with the following A
         </tr>
         <tr>
             <td>sim-swap-subscriptions</td>
-            <td>0.3.0</td>
-            <td><a href="https://github.com/camaraproject/SimSwap/releases/tag/r1.2">r1.2</a>
+            <td>0.1.1</td>
+            <td><a href="https://github.com/camaraproject/SimSwap/releases/tag/r1.3">r1.3</a>
             <td><a href="https://github.com/camaraproject/SimSwap">SimSwap </a></td>
         </tr>
     </tbody>
