@@ -62,7 +62,7 @@ We are happy to announce the **CAMARA meta-release Fall24** with the following A
             <td rowspan=9>Updated initial CAMARA APIs</td>
             <td>carrier-billing</td>
             <td>0.3.0</td>
-            <td><a href="https://github.com/camaraproject/CarrierBillingCheckOut/releases/tag/r1.2">r1.2</a>
+            <td><a href="https://github.com/camaraproject/CarrierBillingCheckOut/releases/tag/r1.3">r1.3</a>
             <td><a href="https://github.com/camaraproject/CarrierBillingCheckOut">CarrierBillingCheckOut</a></td>
         </tr>
         <tr>
@@ -129,7 +129,7 @@ We are happy to announce the **CAMARA meta-release Fall24** with the following A
         <tr>
             <td>carrier-billing-refund</td>
             <td>0.1.0</td>
-            <td><a href="https://github.com/camaraproject/CarrierBillingCheckOut/releases/tag/r1.2">r1.2</a>
+            <td><a href="https://github.com/camaraproject/CarrierBillingCheckOut/releases/tag/r1.3">r1.3</a>
             <td><a href="https://github.com/camaraproject/CarrierBillingCheckOut">CarrierBillingCheckOut</a></td>
         </tr>
         <tr>
