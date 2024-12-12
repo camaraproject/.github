@@ -86,13 +86,13 @@ We are happy to announce the **CAMARA meta-release Fall24** with the following A
         <tr>
             <td>kyc-fill-in</td>
             <td>0.2.0</td>
-            <td><a href="https://github.com/camaraproject/KnowYourCustomer/releases/tag/r1.3">r1.3</a>
+            <td><a href="https://github.com/camaraproject/KnowYourCustomer/releases/tag/r1.4">r1.4</a>
             <td><a href="https://github.com/camaraproject/KnowYourCustomer">KnowYourCustomer</a></td>
         </tr>
         <tr>
             <td>kyc-match</td>
             <td>0.2.1</td>
-            <td><a href="https://github.com/camaraproject/KnowYourCustomer/releases/tag/r1.3">r1.3</a>
+            <td><a href="https://github.com/camaraproject/KnowYourCustomer/releases/tag/r1.4">r1.4</a>
             <td><a href="https://github.com/camaraproject/KnowYourCustomer">KnowYourCustomer</a></td>
         </tr>
         <tr>
