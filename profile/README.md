@@ -103,14 +103,14 @@ We are happy to announce the **CAMARA meta-release Fall24** with the following A
         </tr>
         <tr>
             <td>qos-profiles</td>
-            <td>0.11.0</td>
-            <td><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r1.2">r1.2</a>
+            <td>0.11.1</td>
+            <td><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r1.3">r1.3</a>
             <td><a href="https://github.com/camaraproject/QualityOnDemand">QualityOnDemand</a></td>
         </tr>
         <tr>
             <td>quality-on-demand</td>
-            <td>0.11.0</td>
-            <td><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r1.2">r1.2</a>
+            <td>0.11.1</td>
+            <td><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r1.3">r1.3</a>
             <td><a href="https://github.com/camaraproject/QualityOnDemand">QualityOnDemand</a></td>
         </tr>
         <tr>
@@ -146,8 +146,8 @@ We are happy to announce the **CAMARA meta-release Fall24** with the following A
         </tr>
         <tr>
             <td>qod-provisioning</td>
-            <td>0.1.0</td>
-            <td><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r1.2">r1.2</a>
+            <td>0.1.1</td>
+            <td><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r1.3">r1.3</a>
             <td><a href="https://github.com/camaraproject/QualityOnDemand">QualityOnDemand</a></td>
         </tr>
         <tr>
