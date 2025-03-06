@@ -2,7 +2,7 @@
 
 Welcome to the GitHub of the CAMARA technical project. General information about the project you can find within the [Wiki](https://wiki.camaraproject.org), on the [Website](https://camaraproject.org) and within the [Governance](https://github.com/camaraproject/Governance) repository. Please read the [Project Charter](https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md) if you want to know what CAMARA and its APIs are about.
 
-The work of CAMARA is happening within the [Sub Projects](https://wiki.camaraproject.org/display/CAM/Sub+Projects) and their [API Repositories](https://github.com/search?q=topic%3Aapi-repository+org%3Acamaraproject&type=Repositories) and [Sandbox API Repositories](https://github.com/search?q=topic%3Asandbox-api-repository+org%3Acamaraproject&type=Repositories), 
+The work of CAMARA is happening within the [Sub Projects](https://wiki.camaraproject.org/display/CAM/Sub+Projects) with their [Incubating API Repositories](https://github.com/search?q=topic%3Aincubating-api-repository+org%3Acamaraproject&type=Repositories), in [Sandbox API Repositories](https://github.com/search?q=topic%3Asandbox-api-repository+org%3Acamaraproject&type=Repositories), 
 the [Working Groups](https://github.com/search?q=topic%3Aworkinggroup+org%3Acamaraproject&type=Repositories) and the [Technical Steering Committee](https://wiki.camaraproject.org/display/CAM/Technical+Steering+Committee).
 
 To engage in CAMARA subscribe to our [Mailing Lists](https://lists.camaraproject.org/g/all/subgroups), join the [Community Meetings](https://zoom-lfx.platform.linuxfoundation.org/meetings/telcoapi?view=week) and 
