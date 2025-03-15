@@ -10,7 +10,7 @@ To engage in CAMARA subscribe to our [Mailing Lists](https://lists.camaraproject
 
 ## First meta-release of CAMARA APIs now available - Fall24 🚀
 
-A CAMARA meta-release combines a set of CAMARA API versions into a consistent release. All API versions in the meta-release fulfill [defined quality criteria](https://github.com/camaraproject/ReleaseManagement/blob/main/documentation/API-Readiness-Checklist.md) and are aligned with the current CAMARA guidelines in [Commonalities](https://github.com/camaraproject/Commonalities), [Identity and Consent Management](https://github.com/camaraproject/IdentityAndConsentManagement) and [Release Management](https://github.com/camaraproject/ReleaseManagement). There will be two meta-releases per year (March and September).
+A CAMARA meta-release combines a set of CAMARA API versions into a consistent release. All API versions in the meta-release fulfill [defined quality criteria](https://github.com/camaraproject/ReleaseManagement/blob/main/documentation/API-Readiness-Checklist.md) and are aligned with the current CAMARA guidelines in [Commonalities](https://github.com/camaraproject/Commonalities), [Identity and Consent Management](https://github.com/camaraproject/IdentityAndConsentManagement), and [Release Management](https://github.com/camaraproject/ReleaseManagement). There will be two meta-releases per year (March and September).
 
 We are happy to announce the **CAMARA meta-release Fall24** with the following APIs:
 
