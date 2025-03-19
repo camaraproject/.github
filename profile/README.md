@@ -8,11 +8,11 @@ the [Working Groups](https://github.com/search?q=topic%3Aworkinggroup+org%3Acama
 To engage in CAMARA subscribe to our [Mailing Lists](https://lists.camaraproject.org/g/all/subgroups), join the [Community Meetings](https://zoom-lfx.platform.linuxfoundation.org/meetings/telcoapi?view=week) and
 [contribute here in GitHub](https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md) in the repositories with issues, reviews, pull requests or just your questions in the discussions.
 
-## Second meta-release of CAMARA APIs now available - Spring25 🚀
+## Spring-25 meta-release: new stable and initial CAMARA APIs now available 🚀
 
 A CAMARA meta-release combines a set of CAMARA API versions into a consistent release. All API versions in the meta-release fulfill [defined quality criteria](https://github.com/camaraproject/ReleaseManagement/blob/main/documentation/API-Readiness-Checklist.md) and are aligned with the current CAMARA guidelines in [Commonalities](https://github.com/camaraproject/Commonalities), [Identity and Consent Management](https://github.com/camaraproject/IdentityAndConsentManagement), and [Release Management](https://github.com/camaraproject/ReleaseManagement). There will be two meta-releases per year (March and September).
 
-We are happy to announce that with the **CAMARA meta-release Spring25** we have now 9 stable, 16 updated initial APIs, and 13 new (initial) APIs available in CAMARA, which can be implemented and offered by API providers:
+We are happy to announce that with the **CAMARA Spring25 meta-release** we have now 9 stable, 16 updated initial APIs, and 13 new (initial) APIs available in CAMARA, which can be implemented and offered by API providers:
 
 <!-- ![Overview of the 25 APIs within the CAMARA Fall24 meta-release](/profile/images/CAMARA_Meta-release_Fall24.png) -->
 
