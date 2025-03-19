@@ -193,7 +193,7 @@ We are happy to announce that with the **CAMARA Spring25 meta-release** we have 
             <td><a href="https://github.com/camaraproject/DeviceStatus">DeviceStatus</a></td>
         </tr>
         <tr>
-            <td>connecitivity-insights-subscriptions</td>
+            <td>connected-network-type-subscriptions</td>
             <td>0.1.0 ( <a href="https://github.com/camaraproject/DeviceStatus/releases/tag/r2.2">r2.2</a>)</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/DeviceStatus">DeviceStatus</a></td>
