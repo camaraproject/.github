@@ -180,7 +180,13 @@ We are happy to announce that with the **CAMARA Spring25 meta-release** we have 
             <td><a href="https://github.com/camaraproject/SimSwap">SimSwap </a></td>
         </tr>
         <tr>
-            <td rowspan=12>New Initial<br>CAMARA APIs</td>
+            <td rowspan=13>New Initial<br>CAMARA APIs</td>
+            <td>blockchain-public-address</td>
+            <td>0.2.0 ( <a href="https://github.com/camaraproject/BlockchainPublicAddress/releases/tag/r1.2">r1.2</a>)</td>
+            <td>-</td>
+            <td><a href="https://github.com/camaraproject/BlockchainPublicAddress">BlockchainPublicAddress</a></td>
+        </tr>
+        <tr>
             <td>connected-network-type</td>
             <td>0.1.0 ( <a href="https://github.com/camaraproject/DeviceStatus/releases/tag/r2.2">r2.2</a>)</td>
             <td>-</td>
