@@ -48,7 +48,7 @@ We are happy to announce that with the **CAMARA Spring25 meta-release** we have 
         </tr>
         <tr>
             <td>number-verification</td>
-            <td>1.1.0 ( <a href="https://github.com/camaraproject/NumberVerification/releases/tag/r2.3">r2.3</a>)</td>
+            <td>2.0.0 ( <a href="https://github.com/camaraproject/NumberVerification/releases/tag/r2.4">r2.4</a>)</td>
             <td>1.0.0 ( <a href="https://github.com/camaraproject/NumberVerification/releases/tag/r1.3">r1.3</a>)</td>
             <td><a href="https://github.com/camaraproject/NumberVerification">NumberVerification</a></td>
         </tr>
