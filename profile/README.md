@@ -200,7 +200,7 @@ We are happy to announce that with the **CAMARA Spring25 meta-release** we have 
         </tr>
         <tr>
             <td>customer-insights</td>
-            <td>0.1.0 ( <a href="https://github.com/camaraproject/CustomerInsights/releases/tag/r1.2">r1.2</a>)</td>
+            <td>0.1.1 ( <a href="https://github.com/camaraproject/CustomerInsights/releases/tag/r1.3">r1.3</a>)</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/CustomerInsights">CustomerInsights</a></td>
         </tr>
