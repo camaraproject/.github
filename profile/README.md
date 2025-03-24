@@ -175,7 +175,7 @@ We are happy to announce that with the **CAMARA Spring25 meta-release** we have 
         </tr>
         <tr>
             <td>sim-swap-subscriptions</td>
-            <td>0.2.0 ( <a href="https://github.com/camaraproject/SimSwap/releases/tag/r1.3">r2.2</a>)</td>
+            <td>0.2.0 ( <a href="https://github.com/camaraproject/SimSwap/releases/tag/r2.2">r2.2</a>)</td>
             <td>0.1.1 ( <a href="https://github.com/camaraproject/SimSwap/releases/tag/r1.3">r1.3</a>)</td>
             <td><a href="https://github.com/camaraproject/SimSwap">SimSwap </a></td>
         </tr>
