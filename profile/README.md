@@ -114,7 +114,7 @@ We are happy to announce that with the **CAMARA Spring25 meta-release** we have 
             <td><a href="https://github.com/camaraproject/ConnectivityInsights">ConnectivityInsights</a></td>
         </tr>
         <tr>
-            <td>connecitivity-insights-subscriptions</td>
+            <td>connectivity-insights-subscriptions</td>
             <td>0.5.0 ( <a href="https://github.com/camaraproject/ConnectivityInsights/releases/tag/r2.2">r2.2</a>)</td>
             <td>0.4.0 ( <a href="https://github.com/camaraproject/ConnectivityInsights/releases/tag/r1.2">r1.2</a>)</td>
             <td><a href="https://github.com/camaraproject/ConnectivityInsights">ConnectivityInsights</a></td>
