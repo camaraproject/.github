@@ -14,12 +14,10 @@ A CAMARA meta-release combines a set of CAMARA API versions into a consistent re
 
 We are happy to announce that with the **CAMARA Spring25 meta-release** we have now 9 stable, 16 updated initial APIs, and 13 new (initial) APIs available in CAMARA, which can be implemented and offered by API providers:
 
-<!-- ![Overview of the 25 APIs within the CAMARA Fall24 meta-release](/profile/images/CAMARA_Meta-release_Fall24.png) -->
-
 <table>
     <thead>
         <tr>
-            <th>(1)</th>
+            <th>(1)(2)</th>
             <th>API Name</th>
             <th>Spring25<br>Version (Release)</th>
             <th>Fall24<br>Version (Release)</th>
@@ -262,5 +260,7 @@ We are happy to announce that with the **CAMARA Spring25 meta-release** we have 
 </table>
 
 (1) We try to keep this table up-to-date. Before using an API for your implementation check if there is a newer (patch) release available within the repository. Look for the latest public release.
+
+(2) One additional API, Scam Signal (v0.3.0), was released following the Spring25 meta-release guidelines. This API is developed by and only available on demand through GSMA Open Gateway. For more information, please see the [Scam Signal API description](https://www.gsma.com/solutions-and-impact/gsma-open-gateway/gsma-open-gateway-api-descriptions/).
 
 Visit our [Wiki](https://lf-camaraproject.atlassian.net/wiki/spaces/CAM/overview?mode=global) for more details about the [Spring25 meta-release](https://lf-camaraproject.atlassian.net/wiki/x/US7e) and the [Release Management in CAMARA](https://lf-camaraproject.atlassian.net/wiki/x/US7e). Please note that there are more APIs in work - see the complete list of [Sandbox API Repositories](https://github.com/search?q=topic%3Asandbox-api-repository+org%3Acamaraproject&type=Repositories) which follows also below.
