@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-Welcome to the GitHub of the CAMARA technical project. General information about the project you can find within the [Wiki](https://lf-camaraproject.atlassian.net/wiki/x/AgDe), on the [Website](https://camaraproject.org) and within the [Governance](https://github.com/camaraproject/Governance) repository. Please read the [Project Charter](https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md) if you want to know what CAMARA and its APIs are about.
+Welcome to the GitHub of the CAMARA technical project. General information about the project can be found within the [Wiki](https://lf-camaraproject.atlassian.net/wiki/x/AgDe), on the [Website](https://camaraproject.org) and within the [Governance](https://github.com/camaraproject/Governance) repository. Please read the [Project Charter](https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md) if you want to know what CAMARA and its APIs are about.
 
 The work of CAMARA is happening within the [Sub Projects](https://lf-camaraproject.atlassian.net/wiki/x/NQ7e) with their [Incubating API Repositories](https://github.com/search?q=topic%3Aincubating-api-repository+org%3Acamaraproject&type=Repositories), in [Sandbox API Repositories](https://github.com/search?q=topic%3Asandbox-api-repository+org%3Acamaraproject&type=Repositories),
 the [Working Groups](https://github.com/search?q=topic%3Aworkinggroup+org%3Acamaraproject&type=Repositories) and the [Technical Steering Committee](https://wiki.camaraproject.org/display/CAM/Technical+Steering+Committee).
@@ -233,7 +233,7 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
         </tr>
         <tr>
             <td>device-swap</td>
-            <td>1.0.0 (rc)</td>
+            <td><a href="https://github.com/camaraproject/DeviceSwap/releases/tag/r3.2">1.0.0</a> (rc)</td>
             <td><a href="https://github.com/camaraproject/DeviceSwap/releases/tag/r2.2">0.2.0</a></td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/DeviceSwap">DeviceSwap</a></td>
@@ -318,28 +318,28 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
         </tr>
         <tr>
             <td>consent-info</td>
-            <td>0.1.0 (rc)</td>
+            <td><a href="https://github.com/camaraproject/ConsentInfo/releases/tag/r1.2">0.1.0</a> (rc)</td>
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/ConsentInfo">ConsentInfo</a></td>
         </tr>
         <tr>
             <td>dedicated-network</td>
-            <td>0.1.0 (rc)</td>
+            <td><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a> (rc)</td>
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/DedicatedNetworks">DedicatedNetworks</a></td>
         </tr>
         <tr>
             <td>dedicated-network-accesses</td>
-            <td>0.1.0 (rc)</td>
+            <td><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a> (rc)</td>
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/DedicatedNetworks">DedicatedNetworks</a></td>
         </tr>
         <tr>
             <td>dedicated-network-profiles</td>
-            <td>0.1.0 (rc)</td>
+            <td><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a> (rc)</td>
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/DedicatedNetworks">DedicatedNetworks</a></td>
