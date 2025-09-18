@@ -233,7 +233,7 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
         </tr>
         <tr>
             <td>device-swap</td>
-            <td><a href="https://github.com/camaraproject/DeviceSwap/releases/tag/r3.2">1.0.0</a> (rc)</td>
+            <td><a href="https://github.com/camaraproject/DeviceSwap/releases/tag/r3.2">1.0.0</a></td>
             <td><a href="https://github.com/camaraproject/DeviceSwap/releases/tag/r2.2">0.2.0</a></td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/DeviceSwap">DeviceSwap</a></td>
@@ -318,28 +318,28 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
         </tr>
         <tr>
             <td>consent-info</td>
-            <td><a href="https://github.com/camaraproject/ConsentInfo/releases/tag/r1.2">0.1.0</a> (rc)</td>
+            <td><a href="https://github.com/camaraproject/ConsentInfo/releases/tag/r1.2">0.1.0</a></td>
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/ConsentInfo">ConsentInfo</a></td>
         </tr>
         <tr>
             <td>dedicated-network</td>
-            <td><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a> (rc)</td>
+            <td><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a></td>
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/DedicatedNetworks">DedicatedNetworks</a></td>
         </tr>
         <tr>
             <td>dedicated-network-accesses</td>
-            <td><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a> (rc)</td>
+            <td><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a></td>
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/DedicatedNetworks">DedicatedNetworks</a></td>
         </tr>
         <tr>
             <td>dedicated-network-profiles</td>
-            <td><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a> (rc)</td>
+            <td><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a></td>
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/DedicatedNetworks">DedicatedNetworks</a></td>
