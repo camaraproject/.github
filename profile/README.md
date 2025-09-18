@@ -12,7 +12,7 @@ To engage in CAMARA subscribe to our [Mailing Lists](https://lists.camaraproject
 
 A CAMARA meta-release combines a set of CAMARA API versions into a consistent release. All API versions in the meta-release fulfill [defined quality criteria](https://github.com/camaraproject/ReleaseManagement/blob/main/documentation/API-Readiness-Checklist.md) and are aligned with the current CAMARA guidelines in [Commonalities](https://github.com/camaraproject/Commonalities), [Identity and Consent Management](https://github.com/camaraproject/IdentityAndConsentManagement), and [Release Management](https://github.com/camaraproject/ReleaseManagement). There are two meta-releases planned per year (March and September).
 
-We are happy to announce that with the **CAMARA Fall25 meta-release** we have now 9 stable APIs, 27 updated initial APIs, and 24 new (initial) APIs available in CAMARA, which can be implemented and offered by API providers:
+We are happy to announce that with the **CAMARA Fall25 meta-release** we have now 10 stable APIs, 26 updated initial APIs, and 23 new (initial) APIs available in CAMARA, which can be implemented and offered by API providers:
 
 <table>
     <thead>
@@ -27,7 +27,7 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
     </thead>
     <tbody>
         <tr>
-            <td rowspan=9>Stable<br>CAMARA APIs</td>
+            <td rowspan=10>Stable<br>CAMARA APIs</td>
             <td>device-reachability-status</td>
             <td><b><a href="https://github.com/camaraproject/DeviceReachabilityStatus/releases/tag/r1.2">1.1.0</a></b></td>
             <td><a href="https://github.com/camaraproject/DeviceStatus/releases/tag/r2.2">1.0.0</a></td>
@@ -91,7 +91,14 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
             <td><a href="https://github.com/camaraproject/SimpleEdgeDiscovery">SimpleEdgeDiscovery</a></td>
         </tr>
         <tr>
-            <td rowspan=28>Updated initial<br>CAMARA APIs</td>
+            <td>device-swap</td>
+            <td><b><a href="https://github.com/camaraproject/DeviceSwap/releases/tag/r3.2">1.0.0</a></b></td>
+            <td><a href="https://github.com/camaraproject/DeviceSwap/releases/tag/r2.2">0.2.0</a></td>
+            <td>-</td>
+            <td><a href="https://github.com/camaraproject/DeviceSwap">DeviceSwap</a></td>
+        </tr>
+        <tr>
+            <td rowspan=27>Updated initial<br>CAMARA APIs</td>
             <td>application-profiles</td>
             <td><b><a href="https://github.com/camaraproject/ApplicationProfiles/releases/tag/r1.2">0.5.0</a></b></td>
             <td><a href="https://github.com/camaraproject/ConnectivityInsights/releases/tag/r2.2">0.4.0</a></td>
@@ -232,13 +239,6 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
             <td><a href="https://github.com/camaraproject/DeviceIdentifier">DeviceIdentifier</a></td>
         </tr>
         <tr>
-            <td>device-swap</td>
-            <td><a href="https://github.com/camaraproject/DeviceSwap/releases/tag/r3.2">1.0.0</a></td>
-            <td><a href="https://github.com/camaraproject/DeviceSwap/releases/tag/r2.2">0.2.0</a></td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/DeviceSwap">DeviceSwap</a></td>
-        </tr>
-        <tr>
             <td>kyc-age-verification</td>
             <td><b><a href="https://github.com/camaraproject/KnowYourCustomerAgeVerification/releases/tag/r1.3">0.2.1</a></b></td>
             <td><a href="https://github.com/camaraproject/KnowYourCustomer/releases/tag/r2.2">0.1.0</a></td>
@@ -288,7 +288,7 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
             <td><a href="https://github.com/camaraproject/WebRTC">WebRTC</a></td>
         </tr>
         <tr>
-            <td rowspan=24>New Initial<br>CAMARA APIs</td>
+            <td rowspan=23>New Initial<br>CAMARA APIs</td>
             <td>application-endpoint-discovery</td>
             <td><b><a href="https://github.com/camaraproject/ApplicationEndpointDiscovery/releases/tag/r1.2">0.1.0</a></b></td>
             <td>-</td>
@@ -364,13 +364,6 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/EnergyFootprintNotification">EnergyFootprintNotification</a></td>
-        </tr>
-        <tr>
-            <td>home-devices-qod</td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/HomeDevicesQoD/releases/tag/r1.2">0.4.0</a></td>
-            <td><a href="https://github.com/camaraproject/HomeDevicesQoD">HomeDevicesQoD</a></td>
         </tr>
         <tr>
             <td>knowledge-base</td>
@@ -455,6 +448,14 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/VerifiedCaller">VerifiedCaller</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>home-devices-qod</td>
+            <td>-</td>
+            <td>-</td>
+            <td><a href="https://github.com/camaraproject/HomeDevicesQoD/releases/tag/r1.2">0.4.0</a></td>
+            <td><a href="https://github.com/camaraproject/HomeDevicesQoD">HomeDevicesQoD</a></td>
         </tr>
     </tbody>
 </table>
