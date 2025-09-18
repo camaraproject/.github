@@ -12,7 +12,7 @@ To engage in CAMARA subscribe to our [Mailing Lists](https://lists.camaraproject
 
 A CAMARA meta-release combines a set of CAMARA API versions into a consistent release. All API versions in the meta-release fulfill [defined quality criteria](https://github.com/camaraproject/ReleaseManagement/blob/main/documentation/API-Readiness-Checklist.md) and are aligned with the current CAMARA guidelines in [Commonalities](https://github.com/camaraproject/Commonalities), [Identity and Consent Management](https://github.com/camaraproject/IdentityAndConsentManagement), and [Release Management](https://github.com/camaraproject/ReleaseManagement). There are two meta-releases planned per year (March and September).
 
-We are happy to announce that with the **CAMARA Fall25 meta-release** we have now 10 stable APIs, 26 updated initial APIs, and 23 new (initial) APIs available in CAMARA, which can be implemented and offered by API providers:
+We are happy to announce that with the **CAMARA Fall25 meta-release** we have now 10 stable APIs, 27 updated initial APIs, and 23 new (initial) APIs available in CAMARA, which can be implemented and offered by API providers:
 
 <table>
     <thead>
