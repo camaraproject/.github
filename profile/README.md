@@ -247,7 +247,7 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
         </tr>
         <tr>
             <td>kyc-tenure</td>
-            <td>0.2.0 (rc)</td>
+            <td><b>0.2.0 (rc)</b></td>
             <td><a href="https://github.com/camaraproject/Tenure/releases/tag/r1.2">0.1.0</a></td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/Tenure">Tenure</a></td>
@@ -268,21 +268,21 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
         </tr>
         <tr>
             <td>webrtc-call-handling</td>
-            <td>0.3.0 (rc)</td>
+            <td><b>0.3.0 (rc)</b></td>
             <td><a href="https://github.com/camaraproject/WebRTC/releases/tag/r1.2">0.2.0</a></td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/WebRTC">WebRTC</a></td>
         </tr>
         <tr>
             <td>webrtc-events</td>
-            <td>0.2.0 (rc)</td>
+            <td><b>0.2.0 (rc)</b></td>
             <td><a href="https://github.com/camaraproject/WebRTC/releases/tag/r1.2">0.1.0</a></td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/WebRTC">WebRTC</a></td>
         </tr>
         <tr>
             <td>webrtc-registration</td>
-            <td>0.3.0 (rc)</td>
+            <td><b>0.3.0 (rc)</b></td>
             <td><a href="https://github.com/camaraproject/WebRTC/releases/tag/r1.2">0.2.0</a></td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/WebRTC">WebRTC</a></td>
@@ -318,28 +318,28 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
         </tr>
         <tr>
             <td>consent-info</td>
-            <td><a href="https://github.com/camaraproject/ConsentInfo/releases/tag/r1.2">0.1.0</a></td>
+            <td><b><a href="https://github.com/camaraproject/ConsentInfo/releases/tag/r1.2">0.1.0</a></b></td>
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/ConsentInfo">ConsentInfo</a></td>
         </tr>
         <tr>
             <td>dedicated-network</td>
-            <td><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a></td>
+            <td><b><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a></b></td>
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/DedicatedNetworks">DedicatedNetworks</a></td>
         </tr>
         <tr>
             <td>dedicated-network-accesses</td>
-            <td><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a></td>
+            <td><b><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a></b></td>
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/DedicatedNetworks">DedicatedNetworks</a></td>
         </tr>
         <tr>
             <td>dedicated-network-profiles</td>
-            <td><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a></td>
+            <td><b><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a></b></td>
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/DedicatedNetworks">DedicatedNetworks</a></td>
@@ -367,7 +367,7 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
         </tr>
         <tr>
             <td>knowledge-base</td>
-            <td>0.1.0 (rc)</td>
+            <td><b><a href="https://github.com/camaraproject/ModelAsAService/releases/tag/r1.2">0.1.0</a></b></td>
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/ModelAsAService">ModelAsAService</a></td>
@@ -402,14 +402,14 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
         </tr>
         <tr>
             <td>qa-assistant-manage</td>
-            <td>0.1.0 (rc)</td>
+            <td><b><a href="https://github.com/camaraproject/ModelAsAService/releases/tag/r1.2">0.1.0</a></b></td>
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/ModelAsAService">ModelAsAService</a></td>
         </tr>
         <tr>
             <td>qa-assistant-service</td>
-            <td>0.1.0 (rc)</td>
+            <td><b><a href="https://github.com/camaraproject/ModelAsAService/releases/tag/r1.2">0.1.0</a></b></td>
             <td>-</td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/ModelAsAService">ModelAsAService</a></td>
