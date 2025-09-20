@@ -247,7 +247,7 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
         </tr>
         <tr>
             <td>kyc-tenure</td>
-            <td><b>0.2.0 (rc)</b></td>
+            <td><b><a href="https://github.com/camaraproject/Tenure/releases/tag/r1.2">0.2.0</a></b></td>
             <td><a href="https://github.com/camaraproject/Tenure/releases/tag/r1.2">0.1.0</a></td>
             <td>-</td>
             <td><a href="https://github.com/camaraproject/Tenure">Tenure</a></td>
