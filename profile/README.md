@@ -19,9 +19,9 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
         <tr>
             <th>(1)(2)</th>
             <th>API Name</th>
-            <th>Fall25<br>Version (Release)</th>
-            <th>Spring25<br>Version (Release)</th>
-            <th>Fall24<br>Version (Release)</th>
+            <th>Fall25<br>Version</th>
+            <th>Spring25<br>Version</th>
+            <th>Fall24<br>Version</th>
             <th>Repository</th>
         </tr>
     </thead>
