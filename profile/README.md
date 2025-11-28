@@ -190,7 +190,7 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
             <td><a href="https://github.com/camaraproject/PopulationDensityData">PopulationDensityData</a></td>
         </tr>
         <tr>
-            <td>qod-provisioning</td>
+            <td>qos-provisioning</td>
             <td><b><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r3.2">0.3.0</a></b></td>
             <td><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r2.2">0.2.0</a></td>
             <td><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r1.3">0.1.1</a></td>
