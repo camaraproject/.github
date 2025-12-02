@@ -78,7 +78,7 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
         </tr>
         <tr>
             <td>sim-swap</td>
-            <td><b><a href="https://github.com/camaraproject/SimSwap/releases/tag/r3.2">2.1.0</a></b></td>
+            <td><b><a href="https://github.com/camaraproject/SimSwap/releases/tag/r3.3">2.1.0</a></b></td>
             <td><a href="https://github.com/camaraproject/SimSwap/releases/tag/r2.2">2.0.0</a></td>
             <td><a href="https://github.com/camaraproject/SimSwap/releases/tag/r1.4">1.0.0</a></td>
             <td><a href="https://github.com/camaraproject/SimSwap">SimSwap</a></td>
