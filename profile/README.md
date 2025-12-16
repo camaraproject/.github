@@ -163,7 +163,7 @@ We are happy to announce that with the **CAMARA Fall25 meta-release** we have no
         </tr>
         <tr>
             <td>kyc-fill-in</td>
-            <td><b><a href="https://github.com/camaraproject/KnowYourCustomerFill-in/releases/tag/r1.2">0.4.0</a></b></td>
+            <td><b><a href="https://github.com/camaraproject/KnowYourCustomerFill-in/releases/tag/r1.3">0.4.1</a></b></td>
             <td><a href="https://github.com/camaraproject/KnowYourCustomer/releases/tag/r2.2">0.3.0</a></td>
             <td><a href="https://github.com/camaraproject/KnowYourCustomer/releases/tag/r1.4">0.2.0</a></td>
             <td><a href="https://github.com/camaraproject/KnowYourCustomerFill-in">KnowYourCustomerFill-in</a></td>
