@@ -43,14 +43,13 @@ Together, these are the recommended entry points for **visitors, architects, and
 
 If you already know which API you are interested in:
 
-Start with the **API Portfolio** and select the API (for implementation, use the latest meta-release, currently **Fall25**), then follow the link to the **API repository release** on GitHub, read the repository README and API documentation, and review the published OpenAPI and test specifications.
+Start with the **API Portfolio** and select the API (for implementation, use the latest meta-release, currently **Fall25**), then follow the link to the **API repository release** on GitHub, read the repository README and API documentation, and review the published OpenAPI and test specifications. If you are looking for live implementations offered by operators, see the **[GSMA Open Gateway operator map](https://open-gateway.gsma.com/map)**.
 
 If you are implementing an API, you may also need:
-- **[CAMARA Security and Authentication Profiles](https://github.com/camaraproject/IdentityAndConsentManagement)** (Identity & Consent Management)
-- **[CAMARA API Design Guide](https://github.com/camaraproject/Commonalities/blob/main/documentation/CAMARA-API-Design-Guide.md)** (Commonalities)
-- **[Common API design and interoperability guidelines](https://github.com/camaraproject/Commonalities)** (Commonalities)
+- **[Security and Interoperability Profile](https://github.com/camaraproject/IdentityAndConsentManagement/blob/main/documentation/CAMARA-Security-Interoperability.md)** and **[Access and User Consent Management](https://github.com/camaraproject/IdentityAndConsentManagement/blob/main/documentation/CAMARA-API-access-and-user-consent.md)** (Identity & Consent Management)
+- **[CAMARA API Design Guide](https://github.com/camaraproject/Commonalities/blob/main/documentation/CAMARA-API-Design-Guide.md)** and further documents such as the **[API Testing Guidelines](https://github.com/camaraproject/Commonalities/blob/main/documentation/API-Testing-Guidelines.md)** in the **[Commonalities](https://github.com/camaraproject/Commonalities)** repository
 
-These documents are maintained by the respective working groups and apply across APIs.
+These documents are maintained by the respective working groups and apply across APIs. When implementing an API from a specific meta-release, use the corresponding release of these documents.
 
 ---
 
@@ -77,10 +76,11 @@ Organizations may choose to join CAMARA as a **Participating Organization** or a
 If you plan to contribute changes (specifications, tests, documentation), start with the following entry points:
 
 - **[Contributing Guidelines](https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md)** (project-wide contribution process), **[Project Charter](https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md)** and **[Project Structure and Roles](https://github.com/camaraproject/Governance/blob/main/ProjectStructureAndRoles.md)**
-- **[CAMARA API Design Guide](https://github.com/camaraproject/Commonalities/blob/main/documentation/CAMARA-API-Design-Guide.md)** (Commonalities)
+- **[Commonalities](https://github.com/camaraproject/Commonalities)** (API design guidelines and common artifacts)
+- **[Identity and Consent Management](https://github.com/camaraproject/IdentityAndConsentManagement)** (if you want to contribute to security, identity, or consent topics)
 - **[Propose a new API](https://github.com/camaraproject/Governance/blob/main/documentation/API-Onboarding-and-Lifecycle.md)** (API onboarding and lifecycle)
 
-Each API repository contains its own README; contribution guidance is typically found across the README, issues, meeting information, minutes, and existing practice.
+Each repository contains its own README; contribution guidance is typically found across the README, issues, meeting information, minutes, and existing practice.
 
 ---
 
