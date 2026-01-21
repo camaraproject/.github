@@ -1,11 +1,6 @@
-# CAMARA Project
+## Welcome 👋
 
-CAMARA is a global open-source project that enables the exposure of network capabilities through standardized APIs. The project brings together operators, vendors, and the broader ecosystem to define, evolve, and release interoperable APIs.
-
-This README provides a high-level entry point into the CAMARA project:
-- Discover available APIs and their maturity
-- Find documentation and governance references
-- Learn how to participate and contribute
+Welcome to the GitHub of the CAMARA technical project. General information about the project can be found on the [Website](https://camaraproject.org), within the [Wiki](https://lf-camaraproject.atlassian.net/wiki/x/AgDe) and in the [Governance](https://github.com/camaraproject/Governance) repository. Please read the [Project Charter](https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md) if you want to know what CAMARA and its APIs are about.
 
 ---
 
