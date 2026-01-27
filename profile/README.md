@@ -10,14 +10,14 @@ Welcome to the GitHub of the CAMARA technical project. General information about
 
 ---
 
-## Where do I start?
+## 📍 Where do I start?
 
 CAMARA brings together multiple APIs, repositories, and working groups.
 The right starting point depends on **what you are looking for**.
 
 ---
 
-### I want to explore CAMARA APIs
+### 🔎 I want to explore CAMARA APIs
 
 If you want to understand **which APIs exist**, which sub-project or working group owns them, and their current maturity, CAMARA provides multiple entry points depending on the level of detail you are looking for:
 
@@ -34,7 +34,7 @@ Together, these are the recommended entry points for **visitors, architects, and
 
 ---
 
-### I want to use or implement a specific API
+### 🛠️ I want to use or implement a specific API
 
 If you already know which API you are interested in:
 
@@ -48,7 +48,7 @@ These documents are maintained by the respective working groups and apply across
 
 ---
 
-### I want to participate in the CAMARA community
+### 🤝 I want to participate in the CAMARA community
 
 If you want to **join discussions, attend meetings, or contribute**, you will need
 access to CAMARA's collaboration and communication tools.
@@ -66,7 +66,7 @@ Organizations may choose to join CAMARA as a **Participating Organization** or a
 
 ---
 
-### I want to contribute to an API or specification
+### ✍️ I want to contribute to an API or specification
 
 If you plan to contribute changes (specifications, tests, documentation), start with the following entry points:
 
@@ -79,7 +79,7 @@ Each repository contains its own README; contribution guidance is typically foun
 
 ---
 
-### I maintain an API or drive releases
+### 🏁 I maintain an API or drive releases
 
 If you are a **maintainer, codeowner, or release manager**, start with the following entry points:
 
