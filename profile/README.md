@@ -1,467 +1,97 @@
 ## Welcome 👋
 
-Welcome to the GitHub of the CAMARA technical project. General information about the project can be found within the [Wiki](https://lf-camaraproject.atlassian.net/wiki/x/AgDe), on the [Website](https://camaraproject.org) and within the [Governance](https://github.com/camaraproject/Governance) repository. Please read the [Project Charter](https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md) if you want to know what CAMARA and its APIs are about.
+Welcome to the GitHub of the CAMARA technical project. General information about the project can be found on the [Website](https://camaraproject.org), within the [Wiki](https://lf-camaraproject.atlassian.net/wiki/x/AgDe) and in the [Governance](https://github.com/camaraproject/Governance) repository. Please read the [Project Charter](https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md) if you want to know what CAMARA and its APIs are about.
 
-The work of CAMARA is happening within the [Sub Projects](https://lf-camaraproject.atlassian.net/wiki/x/NQ7e) with their [Incubating API Repositories](https://github.com/search?q=topic%3Aincubating-api-repository+org%3Acamaraproject&type=Repositories), in [Sandbox API Repositories](https://github.com/search?q=topic%3Asandbox-api-repository+org%3Acamaraproject&type=Repositories),
-the [Working Groups](https://github.com/search?q=topic%3Aworkinggroup+org%3Acamaraproject&type=Repositories) and the [Technical Steering Committee](https://wiki.camaraproject.org/display/CAM/Technical+Steering+Committee).
+---
 
-To engage in CAMARA subscribe to our [Mailing Lists](https://lists.camaraproject.org/g/all/subgroups), join the [Community Meetings](https://zoom-lfx.platform.linuxfoundation.org/meetings/telcoapi?view=week) and
-[contribute here in GitHub](https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md) in the repositories with issues, reviews, pull requests or just your questions in the discussions.
+> [!NOTE]
+> **Latest news:** CAMARA publishes a position on how network capabilities can enable **network-aware AI applications** using the Model Context Protocol (MCP).
+> **[CAMARA charts a path for network-aware AI applications with MCP](https://camaraproject.org/2026/01/12/camara-charts-a-path-for-network-aware-ai-applications-with-mcp/)**
 
-## Fall25 meta-release: Major expansion with 60 CAMARA APIs now available 🚀
+---
 
-A CAMARA meta-release combines a set of CAMARA API versions into a consistent release. All API versions in the meta-release fulfill [defined quality criteria](https://github.com/camaraproject/ReleaseManagement/blob/main/documentation/API-Readiness-Checklist.md) and are aligned with the current CAMARA guidelines in [Commonalities](https://github.com/camaraproject/Commonalities), [Identity and Consent Management](https://github.com/camaraproject/IdentityAndConsentManagement), and [Release Management](https://github.com/camaraproject/ReleaseManagement). There are two meta-releases planned per year (March and September).
+## 📍 Where do I start?
 
-We are happy to announce that with the **CAMARA Fall25 meta-release** we have now 10 stable APIs, 27 updated initial APIs, and 23 new (initial) APIs available in CAMARA, which can be implemented and offered by API providers:
+CAMARA brings together multiple APIs, repositories, and working groups.
+The right starting point depends on **what you are looking for**.
 
-<table>
-    <thead>
-        <tr>
-            <th>(1)(2)</th>
-            <th>API Name</th>
-            <th>Fall25<br>Version</th>
-            <th>Spring25<br>Version</th>
-            <th>Fall24<br>Version</th>
-            <th>Repository</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=10>Stable<br>CAMARA APIs</td>
-            <td>device-reachability-status</td>
-            <td><b><a href="https://github.com/camaraproject/DeviceReachabilityStatus/releases/tag/r1.2">1.1.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/DeviceStatus/releases/tag/r2.2">1.0.0</a></td>
-            <td><a href="https://github.com/camaraproject/DeviceStatus/releases/tag/r1.3">0.6.1</a></td>
-            <td><a href="https://github.com/camaraproject/DeviceReachabilityStatus">DeviceReachabilityStatus</a></td>
-        </tr>
-        <tr>
-            <td>device-roaming-status</td>
-            <td><b><a href="https://github.com/camaraproject/DeviceRoamingStatus/releases/tag/r1.2">1.1.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/DeviceStatus/releases/tag/r2.2">1.0.0</a></td>
-            <td><a href="https://github.com/camaraproject/DeviceStatus/releases/tag/r1.3">0.6.1</a></td>
-            <td><a href="https://github.com/camaraproject/DeviceRoamingStatus">DeviceRoamingStatus</a></td>
-        </tr>
-        <tr>
-            <td>location-verification</td>
-            <td><b><a href="https://github.com/camaraproject/DeviceLocation/releases/tag/r3.2">3.0.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/DeviceLocation/releases/tag/r2.2">2.0.0</a></td>
-            <td><a href="https://github.com/camaraproject/DeviceLocation/releases/tag/r1.2">1.0.0</a></td>
-            <td><a href="https://github.com/camaraproject/DeviceLocation">DeviceLocation</a></td>
-        </tr>
-        <tr>
-            <td>number-verification</td>
-            <td><b><a href="https://github.com/camaraproject/NumberVerification/releases/tag/r3.2">2.1.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/NumberVerification/releases/tag/r2.4">2.0.0</a></td>
-            <td><a href="https://github.com/camaraproject/NumberVerification/releases/tag/r1.3">1.0.0</a></td>
-            <td><a href="https://github.com/camaraproject/NumberVerification">NumberVerification</a></td>
-        </tr>
-        <tr>
-            <td>one-time-password-sms</td>
-            <td><b><a href="https://github.com/camaraproject/OTPValidation/releases/tag/r3.2">1.1.1</a></b></td>
-            <td><a href="https://github.com/camaraproject/OTPValidation/releases/tag/r2.3">1.1.0</a></td>
-            <td><a href="https://github.com/camaraproject/OTPValidation/releases/tag/r1.2">1.0.0</a></td>
-            <td><a href="https://github.com/camaraproject/OTPValidation">OTPValidation</a></td>
-        </tr>
-        <tr>
-            <td>qos-profiles</td>
-            <td><b><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r3.2">1.1.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r2.2">1.0.0</a></td>
-            <td><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r1.3">0.11.1</a></td>
-            <td><a href="https://github.com/camaraproject/QualityOnDemand">QualityOnDemand</a></td>
-        </tr>
-        <tr>
-            <td>quality-on-demand</td>
-            <td><b><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r3.2">1.1.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r2.2">1.0.0</a></td>
-            <td><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r1.3">0.11.1</a></td>
-            <td><a href="https://github.com/camaraproject/QualityOnDemand">QualityOnDemand</a></td>
-        </tr>
-        <tr>
-            <td>sim-swap</td>
-            <td><b><a href="https://github.com/camaraproject/SimSwap/releases/tag/r3.3">2.1.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/SimSwap/releases/tag/r2.2">2.0.0</a></td>
-            <td><a href="https://github.com/camaraproject/SimSwap/releases/tag/r1.4">1.0.0</a></td>
-            <td><a href="https://github.com/camaraproject/SimSwap">SimSwap</a></td>
-        </tr>
-        <tr>
-            <td>simple-edge-discovery</td>
-            <td><b><a href="https://github.com/camaraproject/SimpleEdgeDiscovery/releases/tag/r2.2">2.0.0</a></b></td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/SimpleEdgeDiscovery/releases/tag/r1.3">1.0.0</a></td>
-            <td><a href="https://github.com/camaraproject/SimpleEdgeDiscovery">SimpleEdgeDiscovery</a></td>
-        </tr>
-        <tr>
-            <td>device-swap</td>
-            <td><b><a href="https://github.com/camaraproject/DeviceSwap/releases/tag/r3.2">1.0.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/DeviceSwap/releases/tag/r2.2">0.2.0</a></td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/DeviceSwap">DeviceSwap</a></td>
-        </tr>
-        <tr>
-            <td rowspan=27>Updated initial<br>CAMARA APIs</td>
-            <td>application-profiles</td>
-            <td><b><a href="https://github.com/camaraproject/ApplicationProfiles/releases/tag/r1.2">0.5.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/ConnectivityInsights/releases/tag/r2.2">0.4.0</a></td>
-            <td><a href="https://github.com/camaraproject/ConnectivityInsights/releases/tag/r1.2">0.3.0</a></td>
-            <td><a href="https://github.com/camaraproject/ApplicationProfiles">ApplicationProfiles</a></td>
-        </tr>
-        <tr>
-            <td>call-forwarding-signal</td>
-            <td><b><a href="https://github.com/camaraproject/CallForwardingSignal/releases/tag/r3.3">0.4.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/CallForwardingSignal/releases/tag/r2.2">0.3.0</a></td>
-            <td><a href="https://github.com/camaraproject/CallForwardingSignal/releases/tag/r1.3">0.2.0</a></td>
-            <td><a href="https://github.com/camaraproject/CallForwardingSignal">CallForwardingSignal</a></td>
-        </tr>
-        <tr>
-            <td>carrier-billing</td>
-            <td><b><a href="https://github.com/camaraproject/CarrierBillingCheckOut/releases/tag/r3.2">0.5.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/CarrierBillingCheckOut/releases/tag/r2.2">0.4.0</a></td>
-            <td><a href="https://github.com/camaraproject/CarrierBillingCheckOut/releases/tag/r1.3">0.3.0</a></td>
-            <td><a href="https://github.com/camaraproject/CarrierBillingCheckOut">CarrierBillingCheckOut</a></td>
-        </tr>
-        <tr>
-            <td>carrier-billing-refund</td>
-            <td><b><a href="https://github.com/camaraproject/CarrierBillingCheckOut/releases/tag/r3.2">0.3.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/CarrierBillingCheckOut/releases/tag/r2.2">0.2.0</a></td>
-            <td><a href="https://github.com/camaraproject/CarrierBillingCheckOut/releases/tag/r1.3">0.1.0</a></td>
-            <td><a href="https://github.com/camaraproject/CarrierBillingCheckOut">CarrierBillingCheckOut</a></td>
-        </tr>
-        <tr>
-            <td>connectivity-insights</td>
-            <td><b><a href="https://github.com/camaraproject/ConnectivityInsights/releases/tag/r3.2">0.6.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/ConnectivityInsights/releases/tag/r2.2">0.5.0</a></td>
-            <td><a href="https://github.com/camaraproject/ConnectivityInsights/releases/tag/r1.2">0.4.0</a></td>
-            <td><a href="https://github.com/camaraproject/ConnectivityInsights">ConnectivityInsights</a></td>
-        </tr>
-        <tr>
-            <td>connectivity-insights-subscriptions</td>
-            <td><b><a href="https://github.com/camaraproject/ConnectivityInsights/releases/tag/r3.2">0.6.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/ConnectivityInsights/releases/tag/r2.2">0.5.0</a></td>
-            <td><a href="https://github.com/camaraproject/ConnectivityInsights/releases/tag/r1.2">0.4.0</a></td>
-            <td><a href="https://github.com/camaraproject/ConnectivityInsights">ConnectivityInsights</a></td>
-        </tr>
-        <tr>
-            <td>device-reachability-status-subscriptions</td>
-            <td><b><a href="https://github.com/camaraproject/DeviceReachabilityStatus/releases/tag/r1.2">0.8.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/DeviceStatus/releases/tag/r2.2">0.7.0</a></td>
-            <td><a href="https://github.com/camaraproject/DeviceStatus/releases/tag/r1.3">0.6.1</a></td>
-            <td><a href="https://github.com/camaraproject/DeviceReachabilityStatus">DeviceReachabilityStatus</a></td>
-        </tr>
-        <tr>
-            <td>device-roaming-status-subscriptions</td>
-            <td><b><a href="https://github.com/camaraproject/DeviceRoamingStatus/releases/tag/r1.2">0.8.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/DeviceStatus/releases/tag/r1.3">0.7.0</a></td>
-            <td><a href="https://github.com/camaraproject/DeviceStatus/releases/tag/r1.3">0.6.1</a></td>
-            <td><a href="https://github.com/camaraproject/DeviceRoamingStatus">DeviceRoamingStatus</a></td>
-        </tr>
-        <tr>
-            <td>geofencing-subscriptions</td>
-            <td><b><a href="https://github.com/camaraproject/DeviceLocation/releases/tag/r3.2">0.5.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/DeviceLocation/releases/tag/r2.2">0.4.0</a></td>
-            <td><a href="https://github.com/camaraproject/DeviceLocation/releases/tag/r1.2">0.3.0</a></td>
-            <td><a href="https://github.com/camaraproject/DeviceLocation ">DeviceLocation</a></td>
-        </tr>
-        <tr>
-            <td>kyc-fill-in</td>
-            <td><b><a href="https://github.com/camaraproject/KnowYourCustomerFill-in/releases/tag/r1.3">0.4.1</a></b></td>
-            <td><a href="https://github.com/camaraproject/KnowYourCustomer/releases/tag/r2.2">0.3.0</a></td>
-            <td><a href="https://github.com/camaraproject/KnowYourCustomer/releases/tag/r1.4">0.2.0</a></td>
-            <td><a href="https://github.com/camaraproject/KnowYourCustomerFill-in">KnowYourCustomerFill-in</a></td>
-        </tr>
-        <tr>
-            <td>kyc-match</td>
-            <td><b><a href="https://github.com/camaraproject/KnowYourCustomerMatch/releases/tag/r1.2">0.4.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/KnowYourCustomer/releases/tag/r2.2">0.3.0</a></td>
-            <td><a href="https://github.com/camaraproject/KnowYourCustomer/releases/tag/r1.4">0.2.1</a></td>
-            <td><a href="https://github.com/camaraproject/KnowYourCustomerMatch">KnowYourCustomerMatch</a></td>
-        </tr>
-        <tr>
-            <td>location-retrieval</td>
-            <td><b><a href="https://github.com/camaraproject/DeviceLocation/releases/tag/r3.2">0.5.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/DeviceLocation/releases/tag/r2.2">0.4.0</a></td>
-            <td><a href="https://github.com/camaraproject/DeviceLocation/releases/tag/r1.2">0.3.0</a></td>
-            <td><a href="https://github.com/camaraproject/DeviceLocation">DeviceLocation</a></td>
-        </tr>
-        <tr>
-            <td>population-density-data</td>
-            <td><b><a href="https://github.com/camaraproject/PopulationDensityData/releases/tag/r3.2">0.3.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/PopulationDensityData/releases/tag/r2.2">0.2.0</a></td>
-            <td><a href="https://github.com/camaraproject/PopulationDensityData/releases/tag/r1.2">0.1.1</a></td>
-            <td><a href="https://github.com/camaraproject/PopulationDensityData">PopulationDensityData</a></td>
-        </tr>
-        <tr>
-            <td>qos-provisioning</td>
-            <td><b><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r3.2">0.3.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r2.2">0.2.0</a></td>
-            <td><a href="https://github.com/camaraproject/QualityOnDemand/releases/tag/r1.3">0.1.1</a></td>
-            <td><a href="https://github.com/camaraproject/QualityOnDemand">QualityOnDemand</a></td>
-        </tr>
-        <tr>
-            <td>sim-swap-subscriptions</td>
-            <td><b><a href="https://github.com/camaraproject/SimSwap/releases/tag/r3.2">0.3.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/SimSwap/releases/tag/r2.2">0.2.0</a></td>
-            <td><a href="https://github.com/camaraproject/SimSwap/releases/tag/r1.4">0.1.2</a></td>
-            <td><a href="https://github.com/camaraproject/SimSwap">SimSwap </a></td>
-        </tr>
-        <tr>
-            <td>blockchain-public-address</td>
-            <td><b><a href="https://github.com/camaraproject/BlockchainPublicAddress/releases/tag/r2.2">0.3.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/BlockchainPublicAddress/releases/tag/r1.2">0.2.0</a></td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/BlockchainPublicAddress">BlockchainPublicAddress</a></td>
-        </tr>
-        <tr>
-            <td>connected-network-type</td>
-            <td><b><a href="https://github.com/camaraproject/ConnectedNetworkType/releases/tag/r1.2">0.2.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/DeviceStatus/releases/tag/r2.2">0.1.0</a></td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/ConnectedNetworkType">ConnectedNetworkType</a></td>
-        </tr>
-        <tr>
-            <td>connected-network-type-subscriptions</td>
-            <td><b><a href="https://github.com/camaraproject/ConnectedNetworkType/releases/tag/r1.2">0.2.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/DeviceStatus/releases/tag/r2.2">0.1.0</a></td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/ConnectedNetworkType">ConnectedNetworkType</a></td>
-        </tr>
-        <tr>
-            <td>customer-insights</td>
-            <td><b><a href="https://github.com/camaraproject/CustomerInsights/releases/tag/r2.2">0.2.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/CustomerInsights/releases/tag/r1.3">0.1.1</a></td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/CustomerInsights">CustomerInsights</a></td>
-        </tr>
-        <tr>
-            <td>device-identifier</td>
-            <td><b><a href="https://github.com/camaraproject/DeviceIdentifier/releases/tag/r2.2">0.3.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/DeviceIdentifier/releases/tag/r1.3">0.2.0</a></td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/DeviceIdentifier">DeviceIdentifier</a></td>
-        </tr>
-        <tr>
-            <td>kyc-age-verification</td>
-            <td><b><a href="https://github.com/camaraproject/KnowYourCustomerAgeVerification/releases/tag/r1.3">0.2.1</a></b></td>
-            <td><a href="https://github.com/camaraproject/KnowYourCustomer/releases/tag/r2.2">0.1.0</a></td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/KnowYourCustomerAgeVerification">KnowYourCustomerAgeVerification</a></td>
-        </tr>
-        <tr>
-            <td>kyc-tenure</td>
-            <td><b><a href="https://github.com/camaraproject/Tenure/releases/tag/r1.2">0.2.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/Tenure/releases/tag/r1.2">0.1.0</a></td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/Tenure">Tenure</a></td>
-        </tr>
-        <tr>
-            <td>number-recycling</td>
-            <td><b><a href="https://github.com/camaraproject/NumberRecycling/releases/tag/r2.2">0.2.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/NumberRecycling/releases/tag/r1.3">0.1.1</a></td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/NumberRecycling">NumberRecycling</a></td>
-        </tr>
-        <tr>
-            <td>region-device-count</td>
-            <td><b><a href="https://github.com/camaraproject/RegionDeviceCount/releases/tag/r2.2">0.2.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/RegionDeviceCount/releases/tag/r1.3">0.1.0</a></td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/RegionDeviceCount">RegionDeviceCount</a></td>
-        </tr>
-        <tr>
-            <td>webrtc-call-handling</td>
-            <td><b><a href="https://github.com/camaraproject/WebRTC/releases/tag/r2.2">0.3.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/WebRTC/releases/tag/r1.2">0.2.0</a></td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/WebRTC">WebRTC</a></td>
-        </tr>
-        <tr>
-            <td>webrtc-events</td>
-            <td><b><a href="https://github.com/camaraproject/WebRTC/releases/tag/r2.2">0.2.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/WebRTC/releases/tag/r1.2">0.1.0</a></td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/WebRTC">WebRTC</a></td>
-        </tr>
-        <tr>
-            <td>webrtc-registration</td>
-            <td><b><a href="https://github.com/camaraproject/WebRTC/releases/tag/r2.2">0.3.0</a></b></td>
-            <td><a href="https://github.com/camaraproject/WebRTC/releases/tag/r1.2">0.2.0</a></td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/WebRTC">WebRTC</a></td>
-        </tr>
-        <tr>
-            <td rowspan=23>New Initial<br>CAMARA APIs</td>
-            <td>application-endpoint-discovery</td>
-            <td><b><a href="https://github.com/camaraproject/ApplicationEndpointDiscovery/releases/tag/r1.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/ApplicationEndpointDiscovery">ApplicationEndpointDiscovery</a></td>
-        </tr>
-        <tr>
-            <td>application-endpoint-registration</td>
-            <td><b><a href="https://github.com/camaraproject/ApplicationEndpointRegistration/releases/tag/r1.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/ApplicationEndpointRegistration">ApplicationEndpointRegistration</a></td>
-        </tr>
-        <tr>
-            <td>blockchain-public-address-validation</td>
-            <td><b><a href="https://github.com/camaraproject/BlockchainPublicAddress/releases/tag/r2.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/BlockchainPublicAddress">BlockchainPublicAddress</a></td>
-        </tr>
-        <tr>
-            <td>brand-registration</td>
-            <td><b><a href="https://github.com/camaraproject/VerifiedCaller/releases/tag/r1.3">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/VerifiedCaller">VerifiedCaller</a></td>
-        </tr>
-        <tr>
-            <td>consent-info</td>
-            <td><b><a href="https://github.com/camaraproject/ConsentInfo/releases/tag/r1.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/ConsentInfo">ConsentInfo</a></td>
-        </tr>
-        <tr>
-            <td>dedicated-network</td>
-            <td><b><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/DedicatedNetworks">DedicatedNetworks</a></td>
-        </tr>
-        <tr>
-            <td>dedicated-network-accesses</td>
-            <td><b><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/DedicatedNetworks">DedicatedNetworks</a></td>
-        </tr>
-        <tr>
-            <td>dedicated-network-profiles</td>
-            <td><b><a href="https://github.com/camaraproject/DedicatedNetworks/releases/tag/r1.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/DedicatedNetworks">DedicatedNetworks</a></td>
-        </tr>
-        <tr>
-            <td>device-data-volume</td>
-            <td><b><a href="https://github.com/camaraproject/DeviceDataVolume/releases/tag/r1.3">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/DeviceDataVolume">DeviceDataVolume</a></td>
-        </tr>
-        <tr>
-            <td>device-data-volume-subscriptions</td>
-            <td><b><a href="https://github.com/camaraproject/DeviceDataVolume/releases/tag/r1.3">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/DeviceDataVolume">DeviceDataVolume</a></td>
-        </tr>
-        <tr>
-            <td>energy-footprint-notification</td>
-            <td><b><a href="https://github.com/camaraproject/EnergyFootprintNotification/releases/tag/r1.3">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/EnergyFootprintNotification">EnergyFootprintNotification</a></td>
-        </tr>
-        <tr>
-            <td>knowledge-base</td>
-            <td><b><a href="https://github.com/camaraproject/ModelAsAService/releases/tag/r1.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/ModelAsAService">ModelAsAService</a></td>
-        </tr>
-        <tr>
-            <td>most-frequent-location</td>
-            <td><b><a href="https://github.com/camaraproject/MostFrequentLocation/releases/tag/r2.2">0.2.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/MostFrequentLocation">MostFrequentLocation</a></td>
-        </tr>
-        <tr>
-            <td>network-slice-booking</td>
-            <td><b><a href="https://github.com/camaraproject/NetworkSliceBooking/releases/tag/r1.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/NetworkSliceBooking">NetworkSliceBooking</a></td>
-        </tr>
-        <tr>
-            <td>optimal-edge-discovery</td>
-            <td><b><a href="https://github.com/camaraproject/OptimalEdgeDiscovery/releases/tag/r1.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/OptimalEdgeDiscovery">OptimalEdgeDiscovery</a></td>
-        </tr>
-        <tr>
-            <td>predictive-connectivity-data</td>
-            <td><b><a href="https://github.com/camaraproject/PredictiveConnectivityData/releases/tag/r1.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/PredictiveConnectivityData">PredictiveConnectivityData</a></td>
-        </tr>
-        <tr>
-            <td>qa-assistant-manage</td>
-            <td><b><a href="https://github.com/camaraproject/ModelAsAService/releases/tag/r1.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/ModelAsAService">ModelAsAService</a></td>
-        </tr>
-        <tr>
-            <td>qa-assistant-service</td>
-            <td><b><a href="https://github.com/camaraproject/ModelAsAService/releases/tag/r1.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/ModelAsAService">ModelAsAService</a></td>
-        </tr>
-        <tr>
-            <td>qos-booking</td>
-            <td><b><a href="https://github.com/camaraproject/QoSBooking/releases/tag/r1.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/QoSBooking">QoSBooking</a></td>
-        </tr>
-        <tr>
-            <td>qos-booking-and-assignment</td>
-            <td><b><a href="https://github.com/camaraproject/QoSBooking/releases/tag/r1.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/QoSBooking">QoSBooking</a></td>
-        </tr>
-        <tr>
-            <td>subscription-status</td>
-            <td><b><a href="https://github.com/camaraproject/SubscriptionStatus/releases/tag/r1.2">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/SubscriptionStatus">SubscriptionStatus</a></td>
-        </tr>
-        <tr>
-            <td>traffic-influence</td>
-            <td><b><a href="https://github.com/camaraproject/TrafficInfluence/releases/tag/r1.3">0.10.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/TrafficInfluence">TrafficInfluence</a></td>
-        </tr>
-        <tr>
-            <td>verified-caller</td>
-            <td><b><a href="https://github.com/camaraproject/VerifiedCaller/releases/tag/r1.3">0.1.0</a></b></td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/VerifiedCaller">VerifiedCaller</a></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>home-devices-qod</td>
-            <td>-</td>
-            <td>-</td>
-            <td><a href="https://github.com/camaraproject/HomeDevicesQoD/releases/tag/r1.2">0.4.0</a></td>
-            <td><a href="https://github.com/camaraproject/HomeDevicesQoD">HomeDevicesQoD</a></td>
-        </tr>
-    </tbody>
-</table>
+---
 
-(1) We try to keep this table up-to-date. Before using an API for your implementation check if there is a newer (patch) release available within the repository. Look for the latest public release.
+### 🔎 I want to explore CAMARA APIs
 
-(2) One additional API, Scam Signal (v0.3.1), was released following the Fall25 meta-release guidelines. This API is developed by and only available on demand through GSMA Open Gateway. For more information, please see the [Scam Signal API description](https://www.gsma.com/solutions-and-impact/gsma-open-gateway/gsma-open-gateway-api-descriptions/).
+If you want to understand **which APIs exist**, which sub-project or working group owns them, and their current maturity, CAMARA provides multiple entry points depending on the level of detail you are looking for:
 
-Visit our [Wiki](https://lf-camaraproject.atlassian.net/wiki/spaces/CAM/overview?mode=global) for more details about the [Fall25 meta-release](https://lf-camaraproject.atlassian.net/wiki/x/FQApAg) and the [Release Management in CAMARA](https://lf-camaraproject.atlassian.net/wiki/x/US7e). Please note that there are more APIs in work - see the complete list of [Sandbox API Repositories](https://github.com/search?q=topic%3Asandbox-api-repository+org%3Acamaraproject&type=Repositories) which follows also below.
+👉 **[CAMARA API Overview (website)](https://camaraproject.org/api-overview/)**
+
+👉 **[CAMARA API Portfolio (interactive, cross-release)](https://camaraproject.github.io/releases/portfolio.html)**
+
+Both entry points provide access to CAMARA APIs and link to their corresponding API descriptions.
+
+The **API Overview** is well suited for a high-level introduction and browsing by topic.
+The **API Portfolio** provides a detailed, up-to-date view across releases, ownership, and maturity.
+
+Together, these are the recommended entry points for **visitors, architects, and decision makers**.
+
+---
+
+### 🛠️ I want to use or implement a specific API
+
+If you already know which API you are interested in:
+
+Start with the **API Portfolio** and select the API (for implementation, use the latest meta-release, currently **Fall25**), then follow the link to the **API repository release** on GitHub, read the repository README and API documentation, and review the published OpenAPI and test specifications. If you are looking for live implementations offered by operators, see the **[GSMA Open Gateway operator map](https://open-gateway.gsma.com/map)**.
+
+If you are implementing an API, you may also need:
+- **[Security and Interoperability Profile](https://github.com/camaraproject/IdentityAndConsentManagement/blob/main/documentation/CAMARA-Security-Interoperability.md)** and **[Access and User Consent Management](https://github.com/camaraproject/IdentityAndConsentManagement/blob/main/documentation/CAMARA-API-access-and-user-consent.md)** (Identity & Consent Management)
+- **[CAMARA API Design Guide](https://github.com/camaraproject/Commonalities/blob/main/documentation/CAMARA-API-Design-Guide.md)** and further documents such as the **[API Testing Guidelines](https://github.com/camaraproject/Commonalities/blob/main/documentation/API-Testing-Guidelines.md)** in the **[Commonalities](https://github.com/camaraproject/Commonalities)** repository
+
+These documents are maintained by the respective working groups and apply across APIs. When implementing an API from a specific meta-release, use the corresponding release of these documents.
+
+---
+
+### 🤝 I want to participate in the CAMARA community
+
+If you want to **join discussions, attend meetings, or contribute**, you will need
+access to CAMARA's collaboration and communication tools.
+
+Start here:
+- **[Getting Started with CAMARA (community tools & access)](https://lf-camaraproject.atlassian.net/wiki/spaces/CAM/pages/14557496/Getting+Started+with+CAMARA)**
+
+This page explains how to set up a Linux Foundation ID (LFID) and SSO, how to join mailing lists and Zulip channels, and how CAMARA collaboration is organized.
+
+Participation in CAMARA is **free for individuals**.
+
+Organizations may choose to join CAMARA as a **Participating Organization** or as a **member/sponsor**, which provides additional involvement, representation, and influence in the project:
+
+👉 **[Join CAMARA – organizational participation and membership](https://camaraproject.org/join/)**
+
+---
+
+### ✍️ I want to contribute to an API or specification
+
+If you plan to contribute changes (specifications, tests, documentation), start with the following entry points:
+
+- **[Contributing Guidelines](https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md)** (project-wide contribution process), **[Project Charter](https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md)** and **[Project Structure and Roles](https://github.com/camaraproject/Governance/blob/main/ProjectStructureAndRoles.md)**
+- **[Commonalities](https://github.com/camaraproject/Commonalities)** (API design guidelines and common artifacts)
+- **[Identity and Consent Management](https://github.com/camaraproject/IdentityAndConsentManagement)** (if you want to contribute to security, identity, or consent topics)
+- **[Propose a new API](https://github.com/camaraproject/Governance/blob/main/documentation/API-Onboarding-and-Lifecycle.md)** (API onboarding and lifecycle)
+
+Each repository contains its own README; contribution guidance is typically found across the README, issues, meeting information, minutes, and existing practice.
+
+---
+
+### 🏁 I maintain an API or drive releases
+
+If you are a **maintainer, codeowner, or release manager**, start with the following entry points:
+
+- **[API Release Guidelines](https://github.com/camaraproject/ReleaseManagement/blob/main/documentation/API_Release_Guidelines.md)** (release process and rules)
+- **[API Readiness Checklist](https://github.com/camaraproject/ReleaseManagement/blob/main/documentation/API-Readiness-Checklist.md)** (release requirements)
+- **[CAMARA wiki](https://lf-camaraproject.atlassian.net/wiki/spaces/CAM/overview)** pages for meta-release milestones and coordination
+
+Release coordination and cross-repository status tracking are currently handled through the wiki (as used for the Fall25 meta-release). As the new release process is rolled out, maintainers and codeowners will increasingly declare release intent via `release-plan.yaml`, with automation taking over much of the manual tracking, while the authoritative rules continue to live in GitHub repositories.
+
+---
+
+### Looking for something else?
+
+This page is intentionally kept concise.
+If you are unsure where to go next, browse the **[CAMARA wiki](https://lf-camaraproject.atlassian.net/wiki/spaces/CAM/overview)** for meeting minutes, working groups, and release tracking, or explore the **[Governance](https://github.com/camaraproject/Governance)**, **[Release Management](https://github.com/camaraproject/ReleaseManagement)**, **[Commonalities](https://github.com/camaraproject/Commonalities)**, **[Identity and Consent Management](https://github.com/camaraproject/IdentityAndConsentManagement)**, and **[API Backlog](https://camaraproject.org/api-backlog/)** repositories for project-wide rules and guidelines.
